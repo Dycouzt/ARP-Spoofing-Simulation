@@ -1,0 +1,4 @@
+psutils==3.3.11
+puremagic==1.30
+pypdf==5.8.0
+scapy==2.6.1
